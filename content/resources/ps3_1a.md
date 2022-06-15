@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: MATLAB file.
-file: /media/courses/6-245-multivariable-control-systems-spring-2004/b9eeb98e5004189f170b1ea5faac6173_ps3_1a.mdl
+file: /courses/6-245-multivariable-control-systems-spring-2004/b9eeb98e5004189f170b1ea5faac6173_ps3_1a.mdl
 file_type: text/plain
 learning_resource_types:
 - Assignments
@@ -13,3 +13,5 @@ resourcetype: Other
 title: ps3_1a.mdl
 uid: b9eeb98e-5004-189f-170b-1ea5faac6173
 ---
+MATLAB file.
+
