@@ -5,6 +5,7 @@ file: /courses/6-245-multivariable-control-systems-spring-2004/f9e91c2cf73603cde
 file_type: text/plain
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection

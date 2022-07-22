@@ -5,6 +5,7 @@ file: /courses/6-245-multivariable-control-systems-spring-2004/ae5260647ac463feb
 file_type: text/plain
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: ps1_1a.mdl
 uid: ae526064-7ac4-63fe-bc5c-eaa41d2587d0
 ---
 MATLAB file.
-

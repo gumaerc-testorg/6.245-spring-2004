@@ -5,6 +5,7 @@ file: /courses/6-245-multivariable-control-systems-spring-2004/82067d40a22b54f50
 file_type: text/plain
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: dit.m
 uid: 82067d40-a22b-54f5-0acd-48f25a4f2d6f
 ---
 MATLAB file.
-
