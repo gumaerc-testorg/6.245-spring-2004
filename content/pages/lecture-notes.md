@@ -1,7 +1,13 @@
 ---
 content_type: page
+description: ''
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: d551f45f-ce28-97e7-f7f9-abcdb5561a4e
+video_metadata:
+  youtube_id: null
 ---
 
 {{< tableopen >}}
@@ -22,7 +28,7 @@ TOPICS
 1
 {{< tdclose >}}
 {{< tdopen >}}
-Standard LTI Feedback Optimization Setup ([PDF]({{< baseurl >}}/resources/lec1_6245_2004))
+Standard LTI Feedback Optimization Setup ({{% resource_link 754978af-feff-25e4-2a28-7d66cef4cac2 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -31,7 +37,7 @@ Standard LTI Feedback Optimization Setup ([PDF]({{< baseurl >}}/resources/lec1_6
 2
 {{< tdclose >}}
 {{< tdopen >}}
-Interpretations for Standard Optimization Setup ([PDF]({{< baseurl >}}/resources/lec2_6245_2004))
+Interpretations for Standard Optimization Setup ({{% resource_link 5bca5588-08b8-b652-b14b-2be6128d8e7d "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -40,7 +46,7 @@ Interpretations for Standard Optimization Setup ([PDF]({{< baseurl >}}/resources
 3
 {{< tdclose >}}
 {{< tdopen >}}
-Solving the H2 Optimization Problem ([PDF]({{< baseurl >}}/resources/lec3_6245_2004))
+Solving the H2 Optimization Problem ({{% resource_link 4c031c3f-7657-29d3-087b-5558bdb4bb17 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -49,7 +55,7 @@ Solving the H2 Optimization Problem ([PDF]({{< baseurl >}}/resources/lec3_6245_2
 4
 {{< tdclose >}}
 {{< tdopen >}}
-Using H2 Optimization ([PDF]({{< baseurl >}}/resources/lec4_6245_2004))
+Using H2 Optimization ({{% resource_link b49e5207-8cd6-ec56-48ce-2d66dff869f2 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -58,7 +64,7 @@ Using H2 Optimization ([PDF]({{< baseurl >}}/resources/lec4_6245_2004))
 5
 {{< tdclose >}}
 {{< tdopen >}}
-The Waterbed Effect ([PDF]({{< baseurl >}}/resources/lec5_6245_2004))
+The Waterbed Effect ({{% resource_link 80366768-4d36-e45f-3df9-a41d4e65f85c "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -67,7 +73,7 @@ The Waterbed Effect ([PDF]({{< baseurl >}}/resources/lec5_6245_2004))
 6
 {{< tdclose >}}
 {{< tdopen >}}
-Kalman-Yakubovich-Popov Lemma ([PDF]({{< baseurl >}}/resources/lec6_6245_2004))
+Kalman-Yakubovich-Popov Lemma ({{% resource_link a376f913-4012-53c1-ac02-664bf717726e "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -76,7 +82,7 @@ Kalman-Yakubovich-Popov Lemma ([PDF]({{< baseurl >}}/resources/lec6_6245_2004))
 7
 {{< tdclose >}}
 {{< tdopen >}}
-Algorithms for H-Infinity Optimization ([PDF]({{< baseurl >}}/resources/lec7_6245_2004))
+Algorithms for H-Infinity Optimization ({{% resource_link a9100bcb-2c4f-e5f0-5ef2-d86007d1fd65 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -85,7 +91,7 @@ Algorithms for H-Infinity Optimization ([PDF]({{< baseurl >}}/resources/lec7_624
 8
 {{< tdclose >}}
 {{< tdopen >}}
-Fundamentals of Model Order Reduction ([PDF]({{< baseurl >}}/resources/lec8_6245_2004))
+Fundamentals of Model Order Reduction ({{% resource_link 2abdecba-a80c-d2d0-6ffa-931ca7ca34c3 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -94,7 +100,7 @@ Fundamentals of Model Order Reduction ([PDF]({{< baseurl >}}/resources/lec8_6245
 9
 {{< tdclose >}}
 {{< tdopen >}}
-Hankel Optimal Model Order Reduction ([PDF]({{< baseurl >}}/resources/lec9_6245_2004))
+Hankel Optimal Model Order Reduction ({{% resource_link f9403ae8-6106-7544-e3c2-99f2876db13f "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -103,7 +109,7 @@ Hankel Optimal Model Order Reduction ([PDF]({{< baseurl >}}/resources/lec9_6245_
 10
 {{< tdclose >}}
 {{< tdopen >}}
-Q-Parameterization ([PDF]({{< baseurl >}}/resources/lec10_6245_2004))
+Q-Parameterization ({{% resource_link 843df8de-6726-6e69-8e1f-aca932f7afea "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -112,7 +118,7 @@ Q-Parameterization ([PDF]({{< baseurl >}}/resources/lec10_6245_2004))
 11
 {{< tdclose >}}
 {{< tdopen >}}
-The Tustin Transform ([PDF]({{< baseurl >}}/resources/lec11_6245_2004))
+The Tustin Transform ({{% resource_link e7aeed6b-7a0d-508a-d363-2c9a46b9a21d "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -121,7 +127,7 @@ The Tustin Transform ([PDF]({{< baseurl >}}/resources/lec11_6245_2004))
 12
 {{< tdclose >}}
 {{< tdopen >}}
-Convex Optimization ([PDF]({{< baseurl >}}/resources/lec12_6245_2004))
+Convex Optimization ({{% resource_link 26d1f4e2-2ee4-7761-76fc-bc49c3ae7d76 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -130,7 +136,7 @@ Convex Optimization ([PDF]({{< baseurl >}}/resources/lec12_6245_2004))
 13
 {{< tdclose >}}
 {{< tdopen >}}
-Analysis of Uncertain Systems ([PDF]({{< baseurl >}}/resources/lec13_6245_2004))
+Analysis of Uncertain Systems ({{% resource_link 685b39d2-b686-eaf4-d15b-840a24ae98c7 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
