@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/6-245-multivariable-control-systems-spring-2004/7e84f44cd8a036b33cfca95273bb7c17_ps1_2b.mdl
+file_size: 10464
 file_type: text/plain
 learning_resource_types:
 - Assignments
