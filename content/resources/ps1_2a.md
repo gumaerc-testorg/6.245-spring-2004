@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: MATLAB file.
-file: /ol-ocw-studio-app/courses/6-245-multivariable-control-systems-spring-2004/8f945f5c588a3f6f776867423c570138_ps1_2a.mdl
+file: /courses/6-245-multivariable-control-systems-spring-2004/8f945f5c588a3f6f776867423c570138_ps1_2a.mdl
 file_size: 9403
 file_type: text/plain
 learning_resource_types:
