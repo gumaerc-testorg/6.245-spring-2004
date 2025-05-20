@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/6-245-multivariable-control-systems-spring-2004/f9e91c2cf73603cdeefa5ab97223a6b3_startup6245.m
+file: /courses/6-245-multivariable-control-systems-spring-2004/f9e91c2cf73603cdeefa5ab97223a6b3_startup6245.m
 file_size: 370
 file_type: text/plain
 learning_resource_types:
